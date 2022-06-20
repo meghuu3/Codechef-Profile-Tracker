@@ -1,6 +1,7 @@
 # Codechef Profile Tracker
 
 A Python Application Where It Uses Beautiful Soup Library Which Is Helpful For Scraping The Web
+In Upcoming Days I May Try To Implement with different coding websites 🤔
 
 # What Application Does??
 
@@ -21,3 +22,5 @@ A Python Application Where It Uses Beautiful Soup Library Which Is Helpful For S
 
 
 ![image](https://user-images.githubusercontent.com/96690036/174644645-97fdbd07-a2ef-44ca-9658-ea25b07b7e4b.png)
+
+
