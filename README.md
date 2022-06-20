@@ -2,7 +2,7 @@
 
 A Python Application Where It Uses Beautiful Soup Library Which Is Helpful For Scraping The Web
 
-In Upcoming Days I May Try To Implement with different coding websites 🤔
+In Upcoming Days I May Try To Implement For different coding platforms 🤔
 
 # What Application Does??
 
